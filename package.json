@@ -1,0 +1,6 @@
+{
+  "name": "kibana-ansi",
+  "version": "1.0.0",
+  "description": "Kibana ANSI",
+  "main": "index.js"
+}
