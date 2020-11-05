@@ -1,6 +1,6 @@
 function ANSIProvider(Private) {
     let _ = require('lodash');
-    let FieldFormat = Private(require('ui/index_patterns/_field_format/FieldFormat'));
+    let FieldFormat = Private(require('ui/index_patterns/_field_format/field_format'));
 
     _.class(ANSI).inherits(FieldFormat);
 
